@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://alex:00709202@cluster0-u566t.gcp.mongodb.net/mern_shopping",
+  "jwtSecret": "my_key"
+}
